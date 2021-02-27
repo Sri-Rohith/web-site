@@ -47,18 +47,18 @@ p{
 .mountain{
   position: relative;
   top: 0;
-  left: 250px;
+  left: 15%;
   width: 750px;
   margin-bottom: -5px;
 }
 .bottom-cloud{
   position: relative;
   bottom:309px;
-  left: 1500px;
+  left: 75%;
 }
 .top-cloud{
   position: relative;
-  left: 250px;
+  left: 10%;
 }
 .birds{
   width: 200px;
@@ -79,9 +79,6 @@ a:hover{
 .lang{
   height: 200px;
   width: auto;
-}
-.skillrow{
-  text-align: center;
 }
 hr{
   border-color: skyblue;
@@ -107,15 +104,16 @@ hr{
   padding-bottom: 100px;
 }
 .skill-row{
+  text-align: center;
   padding-top: 100px;
   position: relative;
-  left: 250px;
+  left: 25%;
 }
 .skill-rows{
   padding-top: 100px;
   padding-bottom: 100px;
   position: relative;
-  left: 450px;
+  left: 25%;
 }
 .footer-link{
   padding-left: 20px;
