@@ -45,33 +45,38 @@ p{
     text-align:center;
 }
 .mountain{
+  display: block;
+  margin: 0 auto;
   position: relative;
-  top: 0;
-  left: 15%;
   width: 750px;
-  margin-bottom: -5px;
 }
 .bottom-cloud{
+  display: block;
+  margin: 0 auto;
   position: relative;
-  bottom:309px;
-  left: 75%;
+  left: 500px;
 }
 .top-cloud{
+  display: block;
+  margin: 0 auto;
   position: relative;
-  left: 10%;
+  right: 600px;
+  top: 200px;
 }
 .birds{
+  display: block;
+  margin: 0 auto;
   width: 200px;
   position: relative;
-  bottom: 300px;
-  left:300px;
+  right: 500px;
+  top: 100px;
 }
 .sun{
+  display: block;
+  margin: 0 auto;
   height: 300px;
   width: 300px;
   position: relative;
-  left: 850px;
-  top: -50px;
 }
 a:hover{
   color:gold;
@@ -104,16 +109,19 @@ hr{
   padding-bottom: 100px;
 }
 .skill-row{
+  display: block;
+  margin: 0 auto;
   text-align: center;
   padding-top: 100px;
   position: relative;
-  left: 25%;
 }
 .skill-rows{
+  display: block;
+  margin: 0 auto;
   padding-top: 100px;
   padding-bottom: 100px;
   position: relative;
-  left: 25%;
+  left: 35%;
 }
 .footer-link{
   padding-left: 20px;
