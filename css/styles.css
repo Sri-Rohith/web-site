@@ -53,27 +53,24 @@ p{
 .bottom-cloud{
   display: block;
   margin: 0 auto;
-  position: relative;
-  left: 400px;
+  padding-left: 50%;
 }
 .top-cloud{
   display: block;
   margin: 0 auto;
-  position: relative;
-  right: 600px;
+  padding-right: 50%;
 }
 .birds{
   display: block;
   margin: 0 auto;
+  padding-right: 60%;
   width: 200px;
-  position: relative;
-  right: 500px;
+}
 .sun{
   display: block;
   margin: 0 auto;
   height: 300px;
   width: 300px;
-  position: relative;
 }
 a:hover{
   color:gold;
@@ -107,18 +104,20 @@ hr{
 }
 .skill-row{
   display: block;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
   padding-top: 100px;
-  position: relative;
+  padding-left: 20%;
 }
 .skill-rows{
   display: block;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   padding-top: 100px;
+  padding-left: 20%;
   padding-bottom: 100px;
-  position: relative;
-  left: 35%;
 }
 .footer-link{
   padding-left: 20px;
