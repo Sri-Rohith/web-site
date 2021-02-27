@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+}
+h1{
+  font-size: 70px;
+  font-family: 'Nothing You Could Do', cursive;
+  text-align: center;
+}
+#main{
+  font-size: 40px;
+}
+h2{
+  font-family: 'RocknRoll One', sans-serif;
+  color: blue;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+  margin: 0 auto 0 auto;
+  font-family: 'Merriweather', serif;
+}
+.top-container{
+    background-color: skyblue;
+    padding-top: 100px;
+    font-family: sans-serif;
+}
+.middle-container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: dodgerblue;
+    text-align: center;
+}
+.bottom-container{
+  padding-top: 100px;
+  padding-bottom: 100px;
+    background-color: dodgerblue;
+    text-align:center;
+}
+.mountain{
+  position: relative;
+  top: 0;
+  left: 250px;
+  width: 750px;
+  margin-bottom: -5px;
+}
+.bottom-cloud{
+  position: relative;
+  bottom:309px;
+  left: 1500px;
+}
+.top-cloud{
+  position: relative;
+  left: 250px;
+}
+.birds{
+  width: 200px;
+  position: relative;
+  bottom: 300px;
+  left:300px;
+}
+.sun{
+  height: 300px;
+  width: 300px;
+  position: relative;
+  left: 850px;
+  top: -50px;
+}
+a:hover{
+  color:gold;
+}
+.lang{
+  height: 200px;
+  width: auto;
+}
+.skillrow{
+  text-align: center;
+}
+hr{
+  border-color: skyblue;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 10%;
+}
+.btn{
+  position: relative;
+  top: 40px;
+}
+.skills{
+  padding-top: 100px;
+  text-align: center;
+}
+.contact-me{
+  text-align:center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.profile{
+  padding-bottom: 100px;
+}
+.skill-row{
+  padding-top: 100px;
+  position: relative;
+  left: 250px;
+}
+.skill-rows{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 450px;
+}
+.footer-link{
+  padding-left: 20px;
+  padding-bottom: 40px;
+}
+.end{
+  padding-top: 40px;
+}
+.mail{
+  margin-top: 50px;
+}
+.button{
+    background-color: skyblue;
+    border-style: strong;
+    border-color: royalblue;
+    border-radius: 12px;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+.button:hover{
+  background-color: royalblue;
+  border-color: skyblue;
+
+}
+.prof-img:hover{
+  border-radius: 75px;
+  height: 300px;
+  width: 300px;
+}
