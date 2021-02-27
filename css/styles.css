@@ -54,14 +54,13 @@ p{
   display: block;
   margin: 0 auto;
   position: relative;
-  left: 500px;
+  left: 400px;
 }
 .top-cloud{
   display: block;
   margin: 0 auto;
   position: relative;
   right: 600px;
-  top: 200px;
 }
 .birds{
   display: block;
@@ -69,8 +68,6 @@ p{
   width: 200px;
   position: relative;
   right: 500px;
-  top: 100px;
-}
 .sun{
   display: block;
   margin: 0 auto;
