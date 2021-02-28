@@ -178,3 +178,6 @@ a{
     text-decoration:underline;
     border-bottom: 4px solid blue;
 }
+#langbold{
+  font-size: 1.5rem;
+}
