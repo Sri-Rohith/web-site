@@ -5,8 +5,11 @@ html,body{
   padding: 0;
   overflow-x: hidden;
 }
+container-full{
+  width: 100%;
+}
 h1{
-  font-size: 562.5%;
+  font-size: 562.6%;
   font-family: 'Nothing You Could Do', cursive;
   text-align: center;
   margin:0 auto;
@@ -14,12 +17,15 @@ h1{
 }
 #main{
   font-size: 40px;
+  font-weight: normal;
+  line-height: 2;
 }
 h2{
   font-family: 'RocknRoll One', sans-serif;
   color: blue;
   font-size: 2.5rem;
 }
+
 h3{
   font-family: 'Montserrat', sans-serif;
 }
@@ -55,7 +61,8 @@ p{
 }
 .bottom-cloud{
   position: relative;
-  left: 45%;
+
+  left: 50%;
 }
 .top-cloud{
   position: relative;
@@ -107,13 +114,14 @@ hr{
 .skill-row{
   text-align: center;
   padding-top: 10%;
-  padding-left: 20%;
+  padding-bottom: 15%;
+
 }
 .skill-rows{
   text-align: center;
   padding-top: 10%;
   padding-bottom: 10%;
-  padding-left: 20%;
+
 }
 .footer-link{
   padding-left: 20px;
@@ -148,4 +156,20 @@ hr{
   border-radius: 75px;
   height: 300px;
   width: 300px;
+}
+a{
+  color: skyblue;
+  text-decoration: none;
+}
+.lang1{
+  width: 15%;
+  float: left;
+  padding-left: 20%;
+  
+}
+.lang2{
+  width: 20%;
+  float: right;
+  padding-right: 20%;
+  margin-left: -30px;
 }
