@@ -174,3 +174,7 @@ a{
   padding-right: 20%;
   margin-left: -30px;
 }
+#doubleUnderline {
+    text-decoration:underline;
+    border-bottom: 1px solid #000;
+}
