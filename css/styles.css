@@ -6,9 +6,10 @@ html,body{
   overflow-x: hidden;
 }
 h1{
-  font-size: 70px;
+  font-size: 562.5%;
   font-family: 'Nothing You Could Do', cursive;
   text-align: center;
+  margin:0 auto;
 }
 #main{
   font-size: 40px;
@@ -16,6 +17,7 @@ h1{
 h2{
   font-family: 'RocknRoll One', sans-serif;
   color: blue;
+  font-size: 2.5rem;
 }
 h3{
   font-family: 'Montserrat', sans-serif;
@@ -104,13 +106,13 @@ hr{
 .skill-row{
   text-align: center;
   padding-top: 10%;
-  padding-left: 30%;
+  padding-left: 20%;
 }
 .skill-rows{
   text-align: center;
   padding-top: 10%;
   padding-bottom: 10%;
-  padding-left: 30%;
+  padding-left: 20%;
 }
 .footer-link{
   padding-left: 20px;
