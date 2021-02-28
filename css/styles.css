@@ -176,5 +176,5 @@ a{
 }
 .doubleUnderline {
     text-decoration:underline;
-    border-bottom: 30% solid blue;
+    border-bottom: 4px solid blue;
 }
