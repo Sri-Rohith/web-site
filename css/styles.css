@@ -161,6 +161,7 @@ hr{
 a{
   color: skyblue;
   text-decoration: none;
+  display: inline-block;
 }
 .lang1{
   width: 15%;
